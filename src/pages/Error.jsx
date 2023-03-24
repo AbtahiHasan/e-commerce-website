@@ -5,6 +5,7 @@ const Error = () => {
     return (
         <section>
             <Nav/>
+            <h2 className='text-5xl font-bold'>This error Page</h2>
         </section>
     );
 };
