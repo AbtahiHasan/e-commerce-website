@@ -7,7 +7,7 @@ const Nav = () => {
     return (        
             <nav className='bg-indigo-500 text-white fixed top-0 left-0 right-0'>                
                 <section className='max-w-[1200px] mx-auto flex items-center justify-between p-4'>
-                    <h2 className='text-3xl font-bold'>Shoope</h2>
+                    <NavLink to="/"><h2 className='text-3xl font-bold'>Shoope</h2></NavLink>
                     {!toggle ? <AiOutlineMenu onClick={() => {setToggle(!toggle)}} className='text-2xl md:hidden block'/> : <AiOutlineClose onClick={() => {setToggle(!toggle)}} className='text-2xl md:hidden block'/>}
                     
                     <ul className='hidden md:flex gap-5'>

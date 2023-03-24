@@ -4,7 +4,7 @@ import Nav from '../components/Nav';
 
 const Contact = () => {
     return (
-        <section className=''>
+        <section>
             <Nav/>
             <h2 className='mt-[80px] text-center py-5 text-2xl font-bold'>Contact Us</h2>
             <div>
