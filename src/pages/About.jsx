@@ -1,4 +1,4 @@
-import React from 'react';
+import Footer from '../components/Footer';
 import HeroSection from '../components/HeroSection';
 import Nav from '../components/Nav';
 import image from '/about.jpg'
@@ -8,6 +8,7 @@ const About = () => {
         <section>
             <Nav/>
             <HeroSection data="About This Shop" image={image}/>
+            <Footer/>
         </section>
     );
 };

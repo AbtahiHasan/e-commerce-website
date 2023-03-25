@@ -1,4 +1,3 @@
-import React from 'react';
 import { GrDeliver } from "react-icons/gr";
 import { MdOutlineSecurity, MdSecurityUpdateGood } from "react-icons/md";
 import { RiRefund2Fill } from "react-icons/ri";
