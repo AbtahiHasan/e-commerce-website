@@ -1,5 +1,3 @@
-import React from 'react';
-import Blog from '../components/Blog';
 import Footer from '../components/Footer';
 import Nav from '../components/Nav';
 import Products from '../components/Products';
