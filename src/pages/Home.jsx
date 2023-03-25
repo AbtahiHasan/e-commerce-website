@@ -2,7 +2,7 @@ import React from 'react';
 import Feature from '../components/Feature';
 import HeroSection from '../components/HeroSection';
 import Nav from '../components/Nav';
-import image from './../../public/images/hero.jpg'
+import image from '/hero.jpg'
 const Home = () => {
     return (
         <>
