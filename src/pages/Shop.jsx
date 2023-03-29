@@ -11,7 +11,7 @@ const Shop = () => {
             <Nav/>
             <ProductSidebar products={<Products/>}/>
             
-            <Footer/>
+            {/* <Footer/> */}
         </div>
     );
 };

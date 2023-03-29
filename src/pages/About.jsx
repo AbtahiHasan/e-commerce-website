@@ -8,7 +8,7 @@ const About = () => {
         <section>
             <Nav/>
             <HeroSection data="About This Shop" image={image}/>
-            <Footer/>
+            {/* <Footer/> */}
         </section>
     );
 };
