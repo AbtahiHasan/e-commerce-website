@@ -6,7 +6,7 @@ const Cart = () => {
     return (
         <section>
             <Nav/>
-            {/* <Footer/> */}
+            <Footer/>
         </section>
     );
 };

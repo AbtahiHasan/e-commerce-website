@@ -26,7 +26,7 @@ export default function Error() {
             </div>
           </div>
         </main>
-        {/* <Footer/> */}
+        <Footer/>
       </>
     )
   }

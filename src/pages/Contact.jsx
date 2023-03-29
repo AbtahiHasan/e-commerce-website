@@ -19,7 +19,7 @@ const Contact = () => {
                     <Button type="submit">Submit</Button>
                 </form>
             </div>
-            {/* <Footer/> */}
+            <Footer/>
         </section>
     );
 };
