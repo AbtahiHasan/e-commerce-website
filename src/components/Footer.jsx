@@ -220,7 +220,7 @@ const Footer = () => {
                     </svg>
                   </a>
                 </div>
-                <p className="text-body-color text-base">&copy; 2025 TailGrids</p>
+                <p className="text-body-color text-base">&copy; Shoope</p>
               </div>
             </div>
           </div>
